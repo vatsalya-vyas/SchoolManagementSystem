@@ -7,9 +7,9 @@ This is a simple console-based School Management System implemented in C++. The 
 - C++ compiler (e.g., GCC, Clang)
 - Windows operating system (for `conio.h` and `windows.h` headers usage)
 
-## Screenshots
+## Screenshot
 
-[Insert screenshots here]
+![Screenshot 2024-03-21 182747](https://github.com/vatsalya-vyas/SchoolManagementSystem/assets/140804211/51b8cfde-290c-4112-a25c-0bdeb03cfe0b)
 
 ## Getting Started
 
